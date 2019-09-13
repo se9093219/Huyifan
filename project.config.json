@@ -12,7 +12,7 @@
 		"autoAudits": false,
 		"coverView": true
 	},
-	"compileType": "miniprogram",
+	"compileType": "plugin",
 	"libVersion": "2.0.4",
 	"appid": "wx61abb86c72503684",
 	"projectname": "Huyifan",
